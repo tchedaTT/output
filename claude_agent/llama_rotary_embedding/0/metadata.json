@@ -1,0 +1,1 @@
+{"benchmark_version": "dc5a7a9ca3088252f021e910b2d722656d1721a9", "tt_metal_version": "65598ace5c1379973b148a628644063036851551", "ttnn_version": "0.62.0rc38.dev450+g3168af4a95", "agent_name": "claude_agent", "task_name": "llama_rotary_embedding", "output_num": "0", "run_date": "2025-10-10 14:36:09"}
