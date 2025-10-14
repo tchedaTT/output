@@ -1,0 +1,1 @@
+{"benchmark_version": "b577984c2dd05a90cbfb972d17db7e6d1d9172d8", "tt_metal_version": "425f8277c34fdcce66c1df298a4794b13862a9a7", "ttnn_version": "0.62.0rc38.dev1126+g425f8277c3", "agent_name": "claude_agent", "task_name": "rms_task_with_mlp", "output_num": "0", "run_date": "2025-10-14 09:52:57"}
