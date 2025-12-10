@@ -1,0 +1,1 @@
+{"benchmark_version": "569401178ce38d9721e846c509b7d9d281526cb4", "tt_metal_version": "bb83f8a4e92f1297af93b589cf681c48dd57f0ac", "ttnn_version": "0.62.0rc38.dev2500+g0ecb887604e", "agent_name": "claude_privileged", "task_name": "llama_e2e", "copy_metal": true, "output_num": "0", "run_date": "2025-12-10 05:32:34"}
